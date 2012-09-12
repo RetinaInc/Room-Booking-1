@@ -1,0 +1,85 @@
+[23-May-2011 14:21:17] PHP Parse error:  syntax error, unexpected '{' in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 655
+[23-May-2011 14:21:51] PHP Parse error:  syntax error, unexpected '{' in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 655
+[23-May-2011 14:22:34] PHP Parse error:  syntax error, unexpected '{' in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 653
+[23-May-2011 14:22:35] PHP Parse error:  syntax error, unexpected '{' in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 653
+[23-May-2011 14:22:40] PHP Parse error:  syntax error, unexpected '{' in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 653
+[23-May-2011 14:22:55] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 653
+[23-May-2011 17:47:24] PHP Parse error:  syntax error, unexpected T_IF in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 661
+[23-May-2011 17:47:39] PHP Parse error:  syntax error, unexpected T_IF in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 661
+[23-May-2011 17:48:04] PHP Parse error:  syntax error, unexpected T_IF in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 661
+[24-May-2011 11:14:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[24-May-2011 11:14:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[24-May-2011 11:14:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[24-May-2011 16:13:07] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:13:19] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:13:56] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:15:18] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:15:34] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:15:50] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:16:03] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:16:20] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:16:37] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:16:54] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:18:35] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:18:59] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[24-May-2011 16:20:20] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1298
+[06-Jun-2011 16:56:07] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:56:13] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:56:18] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:57:12] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:57:38] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:57:42] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:57:47] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:57:51] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 16:57:57] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:10:53] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:10:59] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:11:01] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:11:04] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:11:07] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:11:10] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:11:29] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:11:31] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:11:36] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:12:13] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:12:27] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:13:19] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:13:20] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:13:21] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:17:06] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:18:48] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[06-Jun-2011 17:22:39] PHP Parse error:  syntax error, unexpected '}' in /home/egiukcom/public_html/room_booking/reserve.php on line 153
+[27-Jun-2011 13:18:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[27-Jun-2011 13:32:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[04-Jul-2011 12:05:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[04-Jul-2011 12:06:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[04-Jul-2011 18:34:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[04-Jul-2011 18:34:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[05-Jul-2011 14:17:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[05-Jul-2011 14:17:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[05-Jul-2011 14:17:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[05-Jul-2011 14:18:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[05-Jul-2011 22:52:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[05-Jul-2011 22:52:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[06-Jul-2011 02:06:53] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1351
+[06-Jul-2011 21:02:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[07-Jul-2011 10:08:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[07-Jul-2011 10:10:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[07-Jul-2011 10:10:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[08-Jul-2011 06:29:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[11-Jul-2011 13:56:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[11-Jul-2011 13:57:43] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1351
+[11-Jul-2011 17:20:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[18-Jul-2011 21:50:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[18-Jul-2011 21:52:56] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1351
+[20-Jul-2011 18:02:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[20-Jul-2011 23:15:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[20-Jul-2011 23:15:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[20-Jul-2011 23:15:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[25-Jul-2011 11:13:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[25-Jul-2011 13:44:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[27-Jul-2011 10:25:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[27-Jul-2011 10:27:05] PHP Warning:  Division by zero in /home/egiukcom/public_html/room_booking/templates/reserve.template.php on line 1351
+[27-Jul-2011 14:23:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[28-Jul-2011 17:14:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
+[29-Jul-2011 13:47:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/egiukcom/public_html/room_booking/templates/cpanel.template.php:534) in /home/egiukcom/public_html/room_booking/lib/CmnFns.class.php on line 232
